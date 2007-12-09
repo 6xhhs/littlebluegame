@@ -1,0 +1,8 @@
+MIDlet-1: LittleBlue,/digitrix/littleblue/res/icon.png,digitrix.littleblue.src.LittleBlueMIDLET
+MIDlet-Jar-Size: 161773
+MIDlet-Jar-URL: BlueBubble.jar
+MIDlet-Name: LittleBlue
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

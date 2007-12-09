@@ -1,0 +1,6 @@
+MIDlet-1: LittleBlue,/digitrix/littleblue/res/icon.png,digitrix.littleblue.src.LittleBlueMIDLET
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: LittleBlue
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
